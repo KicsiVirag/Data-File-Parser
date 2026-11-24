@@ -1,0 +1,6 @@
+name;age;email;phone;birthday;alarm;code
+<string>;<number>;<email>;<phone>;<date>;<time>;[A-Z]{3}-\d{2}
+Kiss Péter;34;peter.kiss@example.com;+36 30 123 4567;1990-05-17;07:30:00;ABC-12
+Nagy Anna;27.5;anna@nagy.hu;06201234567;1998-11-02;18:45:10;XYZ-99
+Tóth Béla;;;;;;
+Szabó Éva;41;eva.szabo@mail.hu;+3612345678;1984-02-29;23:59:59;QQQ-01

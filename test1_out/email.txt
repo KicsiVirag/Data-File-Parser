@@ -1,0 +1,4 @@
+peter.kiss@example.com
+anna@nagy.hu
+nobody@example.com
+eva.szabo@mail.hu

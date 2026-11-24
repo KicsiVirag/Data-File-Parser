@@ -1,0 +1,8 @@
+name,age,email,tele fon,birthday,alarm,code
+<string>,<number>,<email>,<phone>,<date>,<time>,[A-Z]{3}-\d{2}
+Kovács Dezső,45,dezso@example.org,+36701234567,1979-03-03,08:00:00,ABC-01
+Varga Lilla,lilla@varga.hu,29,1995-13-45,+3612345678,12:00:00,DEF-22
+Farkas Gábor,50,gabor@farkas.hu,not-a-phone,2001-07-07,25:61:00,bad
+Horváth Ilona,33,ilona@example.com,+36201112222,2005-01-01,10:10:10,GHI-33,extra,data,here
+
+Molnár Zoli,abc,,,,,
